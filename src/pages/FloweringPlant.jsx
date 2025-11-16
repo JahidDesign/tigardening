@@ -8,7 +8,7 @@ export default function FloweringPlant() {
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedProduct, setSelectedProduct] = useState(null);
 
-  const itemsPerPage = 10;
+  const itemsPerPage = 8;
 
   // Load JSON from public/data
   useEffect(() => {

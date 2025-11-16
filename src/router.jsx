@@ -13,6 +13,7 @@ const Cart = lazy(() => import("./pages/Cart").catch(() => ({ default: () => <di
 const Dashboard = lazy(() => import("./pages/Dashboard"));
 const Login = lazy(() => import("./pages/Login"));
 const Signup = lazy(() => import("./pages/Signup"));
+const ForgotPassword = lazy(() => import("./pages/ForgotPassword"));
 const BlogDetail = lazy(() => import("./pages/BlogDetail"));
 const ProductDetail = lazy(() => import("./pages/ProductDetail"));
 const NotFound = lazy(() => import("./pages/NotFound").catch(() => ({ default: () => <div>Page not found</div> })));
@@ -85,6 +86,7 @@ export default function AppRoutes() {
         {/* Auth routes */}
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
+        <Route path="/forgot-password" element={<ForgotPassword />} />
         <Route path="/products/:id" element={<ProductDetail />} />
         {/* 404 */}
         <Route path="*" element={<NotFound />} />

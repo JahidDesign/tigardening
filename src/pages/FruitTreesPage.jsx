@@ -7,7 +7,7 @@ export default function FruitTreesPage() {
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedTree, setSelectedTree] = useState(null);
 
-  const itemsPerPage = 6;
+  const itemsPerPage = 8;
 
   // Load JSON file
   useEffect(() => {

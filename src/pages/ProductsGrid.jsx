@@ -2,7 +2,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 import ProductCard from "./ProductCard";
 
-const PER_PAGE = 10;
+const PER_PAGE = 8;
 
 export default function ProductsGrid() {
   const [plants, setPlants] = useState([]);
