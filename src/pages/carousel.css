@@ -1,0 +1,39 @@
+/* Make Swiper always full width */
+.carousel-swiper {
+  width: 100%;
+}
+
+/* Ensure slides stretch properly */
+.carousel-swiper .swiper-slide {
+  display: flex;
+}
+
+/* Optional: pagination styling */
+.carousel-swiper .swiper-pagination-bullet {
+  opacity: 0.7;
+}
+
+.carousel-swiper .swiper-pagination-bullet-active {
+  opacity: 1;
+}
+
+/* Fade-in animation for overlay content */
+.fadeContent {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUp 0.8s ease-out forwards;
+}
+
+@keyframes fadeUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Extra safety for very small screens */
+@media (max-width: 480px) {
+  .carousel-swiper img {
+    object-position: center;
+  }
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Snake Plant (Sansevieria)",
+    "price": 18.99,
+    "category": "Indoor",
+    "rating": 4.8,
+    "stock": 20,
+    "image": "https://i.ibb.co.com/MD46Hy77/sameer-ramchandani-VMr9-VAC77k-E-unsplash.jpg",
+    "description": "A hardy indoor plant that purifies air and thrives in low light."
+  },
+  {
+    "id": 2,
+    "name": "Monstera Deliciosa",
+    "price": 34.99,
+    "category": "Indoor",
+    "rating": 4.9,
+    "stock": 15,
+    "image": "https://i.ibb.co.com/TDfgSRjd/aiokr-chen-Ytq-UWAl-L2-GE-unsplash.jpg",
+    "description": "Popular split-leaf plant known for large tropical leaves."
+  },
+  {
+    "id": 3,
+    "name": "Areca Palm",
+    "price": 27.50,
+    "category": "Indoor",
+    "rating": 4.7,
+    "stock": 18,
+    "image": "https://i.ibb.co.com/cXsSH1PX/syahrin-seth-Wh-WYV0n-QJGc-unsplash.jpg",
+    "description": "A stunning palm variety perfect for home or office."
+  },
+  {
+    "id": 4,
+    "name": "Aloe Vera",
+    "price": 12.00,
+    "category": "Succulent",
+    "rating": 4.6,
+    "stock": 25,
+    "image": "https://i.ibb.co.com/G4VmHMny/plantsdesign.png",
+    "description": "Easy-to-grow succulent with medicinal benefits."
+  },
+  {
+    "id": 5,
+    "name": "Elegant Plant",
+    "price": 22.99,
+    "category": "Flowering",
+    "rating": 4.8,
+    "stock": 12,
+    "image": "https://i.ibb.co.com/KTSNfDm/cristina-anne-costello-2-7o-G5fap-DI-unsplash.jpg",
+    "description": "Elegant flowering plant that grows well indoors."
+  },
+  {
+    "id": 6,
+    "name": "ZZ Plant (Zamioculcas)",
+    "price": 29.50,
+    "category": "Indoor",
+    "rating": 4.7,
+    "stock": 17,
+    "image": "https://i.ibb.co.com/LdpfVMp9/name-gravity-Ad-Us32i0jc-unsplash.jpg",
+    "description": "Low-maintenance indoor plant with shiny dark leaves."
+  },
+  {
+    "id": 7,
+    "name": "Money Plant (Pothos)",
+    "price": 9.99,
+    "category": "Vine",
+    "rating": 4.6,
+    "stock": 30,
+    "image": "https://i.ibb.co.com/4ZJg11xN/rainier-ridao-Gj6w4-Ias-ZY0-unsplash.jpg",
+    "description": "Fast-growing vine that thrives in all light conditions."
+  },
+  {
+    "id": 8,
+    "name": "Spider Plant",
+    "price": 14.99,
+    "category": "Indoor",
+    "rating": 4.5,
+    "stock": 22,
+    "image": "https://i.ibb.co.com/tMscN6sM/tomasz-anusiewicz-Vxs-LQVww-Y2g-unsplash.jpg",
+    "description": "Air-purifying indoor plant with arching striped leaves."
+  },
+  {
+    "id": 9,
+    "name": "Jade Plant",
+    "price": 16.99,
+    "category": "Succulent",
+    "rating": 4.7,
+    "stock": 19,
+    "image": "https://i.ibb.co.com/HZrmkk6/6a2a266827a49f67acbb7a3a31b23d9d.jpg",
+    "description": "A classic succulent symbolizing prosperity and luck."
+  },
+  {
+    "id": 10,
+    "name": "Bamboo Palm",
+    "price": 32.00,
+    "category": "Indoor",
+    "rating": 4.8,
+    "stock": 10,
+    "image": "https://i.ibb.co.com/rKFctg4b/d20a319164fb9816887b856f857f15da.jpg",
+    "description": "Graceful indoor palm that increases indoor humidity."
+  },
+  {
+    "id": 11,
+    "name": "Lavender",
+    "price": 11.99,
+    "category": "Flowering",
+    "rating": 4.6,
+    "stock": 23,
+    "image": "https://i.ibb.co.com/NdhGYJc1/91e17c69a4130afc593685bc22e5f079.jpg",
+    "description": "Fragrant flowering herb known for relaxation."
+  },
+  {
+    "id": 12,
+    "name": "Rosemary",
+    "price": 8.50,
+    "category": "Herb",
+    "rating": 4.5,
+    "stock": 26,
+    "image": "https://i.ibb.co.com/0ytKvbSy/d62d860d168e97891c54ec859b072976.jpg",
+    "description": "Aromatic herb used for cooking and fragrance."
+  },
+  {
+    "id": 13,
+    "name": "Rubber Plant",
+    "price": 28.99,
+    "category": "Indoor",
+    "rating": 4.8,
+    "stock": 14,
+    "image": "https://i.ibb.co.com/W4r46HWz/5303f836f25d23553c1ead44a3715031.jpg",
+    "description": "Large-leaf plant perfect for living rooms and offices."
+  },
+  {
+    "id": 14,
+    "name": "Fern Boston",
+    "price": 15.99,
+    "category": "Indoor",
+    "rating": 4.4,
+    "stock": 20,
+    "image": "https://i.ibb.co.com/RkDzbFBL/e1f413069499353825f4d82a06ae936c.jpg",
+    "description": "Classic air-purifying fern with lush green fronds."
+  },
+  {
+    "id": 15,
+    "name": "String of Pearls",
+    "price": 19.50,
+    "category": "Succulent",
+    "rating": 4.7,
+    "stock": 16,
+    "image": "https://i.ibb.co.com/Qs0TJKG/f515dc0a3c898724b7b7d9216be83380.jpg",
+    "description": "Unique trailing succulent with bead-like leaves."
+  },
+  {
+    "id": 16,
+    "name": "Cactus Mix Set (3 pcs)",
+    "price": 12.99,
+    "category": "Cactus",
+    "rating": 4.5,
+    "stock": 40,
+    "image": "https://i.ibb.co.com/s4LBG8Y/bf289b347ea12f59ad1a28bd289db98c.jpg",
+    "description": "A decorative mix of assorted cactus varieties."
+  },
+  {
+    "id": 17,
+    "name": "Cherry Blossom Bonsai",
+    "price": 49.99,
+    "category": "Bonsai",
+    "rating": 4.9,
+    "stock": 6,
+    "image": "https://i.ibb.co.com/WWwjVC64/955820e2389fba1091cdd009c5a28760.jpg",
+    "description": "Elegant miniature bonsai with pink blossoms."
+  },
+  {
+    "id": 18,
+    "name": "Jasmine Plant",
+    "price": 18.99,
+    "category": "Flowering",
+    "rating": 4.6,
+    "stock": 18,
+    "image": "https://i.ibb.co.com/KpFMkc8H/Aprenda-a-Plantar-Sementes-A-Mensagem-Que-Vai-Transformar-Sua-Vida.jpg",
+    "description": "Fragrant white flowers with a sweet, soothing smell."
+  },
+  {
+    "id": 19,
+    "name": "Mint Plant",
+    "price": 7.50,
+    "category": "Herb",
+    "rating": 4.5,
+    "stock": 35,
+    "image": "https://i.ibb.co.com/SXVG52Wx/Earth-day-tree-seedlings-in-hands-forest-conservation-concept-Premium-AI-generated-image.jpg",
+    "description": "Fast-growing herb perfect for tea and cooking."
+  },
+  {
+    "id": 20,
+    "name": "Fiddle Leaf Fig",
+    "price": 39.99,
+    "category": "Indoor",
+    "rating": 4.8,
+    "stock": 9,
+    "image": "https://i.ibb.co.com/zh1h2CXh/tree.jpg",
+    "description": "Popular tall indoor plant with large violin-shaped leaves."
+  }
+]

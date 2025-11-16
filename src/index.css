@@ -1,0 +1,37 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+
+/* Tailwind (must be first) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Swiper CSS */
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+@import "tailwindcss";
+/* Custom Variables */
+:root {
+  --pine: #0E2D1B;
+  --pagebg: #F6F6EE;
+  --accent: #E58E26;
+}
+
+body {
+  background: var(--pagebg);
+  font-family: Inter, sans-serif;
+  color: #12321b;
+}
+
+.text-pine { color: var(--pine); }
+.bg-pine { background-color: var(--pine); }
+.bg-accent { background-color: var(--accent); }
+.text-accent { color: var(--accent); }
+
+/* Animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fadeIn { animation: fadeIn .8s ease-in-out; }

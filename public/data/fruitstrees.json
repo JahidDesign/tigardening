@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Mango Tree (Grafted)",
+    "category": "Fruit Tree",
+    "price": 1499,
+    "oldPrice": 1999,
+    "image": "https://i.ibb.co.com/sv6KSksP/00561a68a96e3fe88eddef0acc0d86a1.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Guava Tree",
+    "category": "Fruit Tree",
+    "price": 999,
+    "oldPrice": 1399,
+    "image": "https://i.ibb.co.com/KcncVpGb/697ae9aa23e386deb540ee7859c9beaf.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Lemon Tree",
+    "category": "Fruit Tree",
+    "price": 899,
+    "oldPrice": 1199,
+    "image": "https://i.ibb.co.com/Gfqrhcbs/a3d0c0d0616ed4ebc9a461d5bf6b91df.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Orange Tree",
+    "category": "Fruit Tree",
+    "price": 1299,
+    "oldPrice": 1799,
+    "image": "https://i.ibb.co.com/qZdLwsq/6b75c96e3e72e4c8e49d5ca5784cc97d.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Banana Plant",
+    "category": "Fruit Plant",
+    "price": 799,
+    "oldPrice": 1099,
+    "image": "https://i.ibb.co.com/B57Vg8F7/a167fc0959ebf6e23de588d12b3f26f5.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Papaya Tree",
+    "category": "Fruit Tree",
+    "price": 899,
+    "oldPrice": 1299,
+    "image": "https://i.ibb.co.com/zVtFnnnx/96c3f46978fa0506b5c129a36efb3fd4.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "name": "Pomegranate Tree",
+    "category": "Fruit Tree",
+    "price": 1399,
+    "oldPrice": 1899,
+    "image": "https://i.ibb.co.com/nMyDk6qJ/15ce1dd051456cf1a2d5e22b8353ce1e.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "Coconut Tree (Seedling)",
+    "category": "Fruit Tree",
+    "price": 1199,
+    "oldPrice": 1699,
+    "image": "https://i.ibb.co.com/h1cZ5KTV/a4b0f886a0204f2a1288b6552435a56c.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "name": "Lichi Tree",
+    "category": "Fruit Tree",
+    "price": 1599,
+    "oldPrice": 2199,
+    "image": "https://i.ibb.co.com/ZprYDM8L/4fb9710c9601ff1e8dc5d249894c3a93.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "name": "Dragon Fruit Plant",
+    "category": "Fruit Plant",
+    "price": 1299,
+    "oldPrice": 1799,
+    "image": "https://i.ibb.co.com/BK7ZNdn9/7117dc2d4407c824f28a92a0fb25bb81.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 11,
+    "name": "Apple Tree",
+    "category": "Fruit Tree",
+    "price": 1899,
+    "oldPrice": 2499,
+    "image": "https://i.ibb.co.com/sv6KSksP/00561a68a96e3fe88eddef0acc0d86a1.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 12,
+    "name": "Grape Vine",
+    "category": "Fruit Plant",
+    "price": 999,
+    "oldPrice": 1499,
+    "image": "https://i.ibb.co.com/KcncVpGb/697ae9aa23e386deb540ee7859c9beaf.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 13,
+    "name": "Jackfruit Tree",
+    "category": "Fruit Tree",
+    "price": 1999,
+    "oldPrice": 2599,
+    "image": "https://i.ibb.co.com/Gfqrhcbs/a3d0c0d0616ed4ebc9a461d5bf6b91df.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 14,
+    "name": "Peach Tree",
+    "category": "Fruit Tree",
+    "price": 1299,
+    "oldPrice": 1899,
+    "image": "https://i.ibb.co.com/qZdLwsq/6b75c96e3e72e4c8e49d5ca5784cc97d.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "name": "Pear Tree",
+    "category": "Fruit Tree",
+    "price": 1599,
+    "oldPrice": 2299,
+    "image": "https://i.ibb.co.com/B57Vg8F7/a167fc0959ebf6e23de588d12b3f26f5.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 16,
+    "name": "Blackberry Plant",
+    "category": "Fruit Plant",
+    "price": 799,
+    "oldPrice": 1199,
+    "image": "https://i.ibb.co.com/zVtFnnnx/96c3f46978fa0506b5c129a36efb3fd4.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 17,
+    "name": "Blueberry Plant",
+    "category": "Fruit Plant",
+    "price": 999,
+    "oldPrice": 1499,
+    "image": "https://i.ibb.co.com/nMyDk6qJ/15ce1dd051456cf1a2d5e22b8353ce1e.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 18,
+    "name": "Custard Apple Tree",
+    "category": "Fruit Tree",
+    "price": 1799,
+    "oldPrice": 2499,
+    "image": "https://i.ibb.co.com/h1cZ5KTV/a4b0f886a0204f2a1288b6552435a56c.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 19,
+    "name": "Mulberry Tree",
+    "category": "Fruit Tree",
+    "price": 1299,
+    "oldPrice": 1999,
+    "image": "https://i.ibb.co.com/ZprYDM8L/4fb9710c9601ff1e8dc5d249894c3a93.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 20,
+    "name": "Tamarind Tree",
+    "category": "Fruit Tree",
+    "price": 1599,
+    "oldPrice": 2299,
+    "image": "https://i.ibb.co.com/BK7ZNdn9/7117dc2d4407c824f28a92a0fb25bb81.jpg",
+    "rating": 4.8
+  }
+]

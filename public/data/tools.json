@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Golden Pothos",
+    "category": "Indoor Plant",
+    "price": 12.99,
+    "oldPrice": 18.99,
+    "image": "https://i.ibb.co.com/sv6KSksP/00561a68a96e3fe88eddef0acc0d86a1.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Snake Plant",
+    "category": "Indoor Plant",
+    "price": 15.5,
+    "oldPrice": 22,
+    "image": "https://i.ibb.co.com/KcncVpGb/697ae9aa23e386deb540ee7859c9beaf.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Monstera Deliciosa",
+    "category": "Tropical Plant",
+    "price": 29.99,
+    "oldPrice": 39.99,
+    "image": "https://i.ibb.co.com/Gfqrhcbs/a3d0c0d0616ed4ebc9a461d5bf6b91df.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "name": "Spider Plant",
+    "category": "Indoor Plant",
+    "price": 9.99,
+    "oldPrice": 14.99,
+    "image": "https://i.ibb.co.com/qZdLwsq/6b75c96e3e72e4c8e49d5ca5784cc97d.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Aloe Vera",
+    "category": "Succulent",
+    "price": 11.99,
+    "oldPrice": 16.99,
+    "image": "https://i.ibb.co.com/B57Vg8F7/a167fc0959ebf6e23de588d12b3f26f5.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "name": "Peace Lily",
+    "category": "Flowering Plant",
+    "price": 18.99,
+    "oldPrice": 25.99,
+    "image": "https://i.ibb.co.com/zVtFnnnx/96c3f46978fa0506b5c129a36efb3fd4.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "name": "Areca Palm",
+    "category": "Palm",
+    "price": 22.99,
+    "oldPrice": 29.99,
+    "image": "https://i.ibb.co.com/nMyDk6qJ/15ce1dd051456cf1a2d5e22b8353ce1e.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "ZZ Plant",
+    "category": "Indoor Plant",
+    "price": 19.99,
+    "oldPrice": 26.99,
+    "image": "https://i.ibb.co.com/h1cZ5KTV/a4b0f886a0204f2a1288b6552435a56c.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 9,
+    "name": "Jade Plant",
+    "category": "Succulent",
+    "price": 13.99,
+    "oldPrice": 18.99,
+    "image": "https://i.ibb.co.com/ZprYDM8L/4fb9710c9601ff1e8dc5d249894c3a93.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "name": "Cactus Mix",
+    "category": "Cactus",
+    "price": 7.99,
+    "oldPrice": 9.99,
+    "image": "https://i.ibb.co.com/BK7ZNdn9/7117dc2d4407c824f28a92a0fb25bb81.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "name": "Rubber Plant",
+    "category": "Indoor Plant",
+    "price": 17.99,
+    "oldPrice": 22.99,
+    "image": "https://i.ibb.co.com/tpH7jDx1/c632ae3568e2749f9175e5f6b8ea76c3.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 12,
+    "name": "Lavender",
+    "category": "Flowering Plant",
+    "price": 10.99,
+    "oldPrice": 14.99,
+    "image": "https://i.ibb.co.com/pvk0VQB1/c4fb3bf1cf40e155c5b7b3e37bb4cab2.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 13,
+    "name": "Mint",
+    "category": "Herb",
+    "price": 6.99,
+    "oldPrice": 9.99,
+    "image": "https://i.ibb.co.com/fYJ3jJF5/e2d3e05b2b24cc7383fb7cc8e1246560.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 14,
+    "name": "Basil",
+    "category": "Herb",
+    "price": 7.99,
+    "oldPrice": 11.99,
+    "image": "https://i.ibb.co.com/fK3hjqb/668f8e9b944a28eb0db06ba162847bfa.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "name": "Rose Plant",
+    "category": "Flowering Plant",
+    "price": 24.99,
+    "oldPrice": 34.99,
+    "image": "https://i.ibb.co.com/ksnd2vXy/1191936b930d210aa9dba877f239c2d7.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 16,
+    "name": "Tulsi",
+    "category": "Medicinal Plant",
+    "price": 5.99,
+    "oldPrice": 8.99,
+    "image": "https://i.ibb.co.com/rR5YJpC4/0067e349130988ccd9a61f4854a904c1.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 17,
+    "name": "Fiddle Leaf Fig",
+    "category": "Indoor Plant",
+    "price": 31.99,
+    "oldPrice": 42.99,
+    "image": "https://i.ibb.co.com/0yxVwxsF/f9b21fe19cdd8f45b094a5ac61d69c11.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 18,
+    "name": "Calathea Orbifolia",
+    "category": "Tropical Plant",
+    "price": 19.49,
+    "oldPrice": 26.49,
+    "image": "https://i.ibb.co.com/p6N8GP0d/75c10ab1d98727e6f28b326057b0874a.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 19,
+    "name": "Money Plant",
+    "category": "Indoor Plant",
+    "price": 8.99,
+    "oldPrice": 12.99,
+    "image": "https://i.ibb.co.com/qLVgZM6n/11f87a07c974998c5e0d153f5ba10f16.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 20,
+    "name": "Bonsai Tree",
+    "category": "Mini Tree",
+    "price": 49.99,
+    "oldPrice": 65.99,
+    "image": "https://i.ibb.co.com/VWwjdmP4/673731185d495344dc185e1000435608.jpg",
+    "rating": 5.0
+  }
+]

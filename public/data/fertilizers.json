@@ -1,0 +1,182 @@
+[
+  {
+    "id": 201,
+    "name": "Organic Compost Mix",
+    "category": "Fertilizers",
+    "price": 10.99,
+    "oldPrice": 14.99,
+    "image": "https://i.ibb.co.com/vxt9sw7X/e5d749b21ad12289f5ae3c3ea8405eb3.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 202,
+    "name": "Liquid Plant Food 500ml",
+    "category": "Fertilizers",
+    "price": 9.5,
+    "oldPrice": 13,
+    "image": "https://i.ibb.co.com/HZrmkk6/6a2a266827a49f67acbb7a3a31b23d9d.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 203,
+    "name": "NPK 20-20-20",
+    "category": "Fertilizers",
+    "price": 13.99,
+    "oldPrice": 19.99,
+    "image": "https://i.ibb.co.com/NdhGYJc1/91e17c69a4130afc593685bc22e5f079.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 204,
+    "name": "Cow Manure (Dry)",
+    "category": "Fertilizers",
+    "price": 8.99,
+    "oldPrice": 12.99,
+    "image": "https://i.ibb.co.com/0ytKvbSy/d62d860d168e97891c54ec859b072976.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 205,
+    "name": "Vermicompost",
+    "category": "Fertilizers",
+    "price": 7.99,
+    "oldPrice": 11.99,
+    "image": "https://i.ibb.co.com/rKFctg4b/d20a319164fb9816887b856f857f15da.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 206,
+    "name": "Seaweed Extract Fertilizer",
+    "category": "Fertilizers",
+    "price": 14.99,
+    "oldPrice": 19.99,
+    "image": "https://i.ibb.co.com/W4r46HWz/5303f836f25d23553c1ead44a3715031.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 207,
+    "name": "Bone Meal",
+    "category": "Fertilizers",
+    "price": 9.99,
+    "oldPrice": 13.49,
+    "image": "https://i.ibb.co.com/RkDzbFBL/e1f413069499353825f4d82a06ae936c.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 208,
+    "name": "Neem Cake Fertilizer",
+    "category": "Fertilizers",
+    "price": 11.5,
+    "oldPrice": 15.5,
+    "image": "https://i.ibb.co.com/Qs0TJKG/f515dc0a3c898724b7b7d9216be83380.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 209,
+    "name": "Humic Acid Granules",
+    "category": "Fertilizers",
+    "price": 8.49,
+    "oldPrice": 10.99,
+    "image": "https://i.ibb.co.com/s4LBG8Y/bf289b347ea12f59ad1a28bd289db98c.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 210,
+    "name": "Urea Fertilizer",
+    "category": "Fertilizers",
+    "price": 6.99,
+    "oldPrice": 9.99,
+    "image": "https://i.ibb.co.com/WWwjVC64/955820e2389fba1091cdd009c5a28760.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 211,
+    "name": "Potassium Sulphate",
+    "category": "Fertilizers",
+    "price": 12.49,
+    "oldPrice": 17.49,
+    "image": "https://i.ibb.co.com/KpFMkc8H/Aprenda-a-Plantar-Sementes-A-Mensagem-Que-Vai-Transformar-Sua-Vida.jpg1",
+    "rating": 4.5
+  },
+  {
+    "id": 212,
+    "name": "Phosphate Booster",
+    "category": "Fertilizers",
+    "price": 9.75,
+    "oldPrice": 13.75,
+    "image": "https://i.ibb.co.com/SXVG52Wx/Earth-day-tree-seedlings-in-hands-forest-conservation-concept-Premium-AI-generated-image.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 213,
+    "name": "Organic Soil Enhancer",
+    "category": "Fertilizers",
+    "price": 11.99,
+    "oldPrice": 15.99,
+    "image": "https://i.ibb.co.com/zh1h2CXh/tree.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 214,
+    "name": "Leaf Shine Spray",
+    "category": "Fertilizers",
+    "price": 7.49,
+    "oldPrice": 10.49,
+    "image": "https://i.ibb.co.com/vxt9sw7X/e5d749b21ad12289f5ae3c3ea8405eb3.jpghttps://i.ibb.co.com/23gW4gXb/b7864c215a34c63c63d2c7d236f2155d.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 215,
+    "name": "Slow Release Fertilizer Balls",
+    "category": "Fertilizers",
+    "price": 6.99,
+    "oldPrice": 8.99,
+    "image": "https://i.ibb.co.com/mV7tPQ4r/9ea7e258a13d915987dd9e38cb9255f4.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 216,
+    "name": "Rose Booster Fertilizer",
+    "category": "Fertilizers",
+    "price": 10.5,
+    "oldPrice": 14.5,
+    "image": "https://i.ibb.co.com/h11z4B5z/065648b13455fb9a89cd081c85f246b5.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 217,
+    "name": "Plant Growth Stimulator",
+    "category": "Fertilizers",
+    "price": 12.99,
+    "oldPrice": 18.49,
+    "image": "https://i.ibb.co.com/5xLskvXF/6e4923786692bf19740c397b1569ee4f.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 218,
+    "name": "Organic Worm Tea",
+    "category": "Fertilizers",
+    "price": 8.25,
+    "oldPrice": 12.25,
+    "image": "https://i.ibb.co.com/Y4vRb5Rm/beef487c60d44cee8d614009bfb39ece.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 219,
+    "name": "Plant Vitamin Mix",
+    "category": "Fertilizers",
+    "price": 11.5,
+    "oldPrice": 16.5,
+    "image": "https://i.ibb.co.com/M5VWqTg0/f56d3acee21f3d7b9e990cbc7608c38e.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 220,
+    "name": "All Purpose Garden Fertilizer",
+    "category": "Fertilizers",
+    "price": 13.75,
+    "oldPrice": 19.75,
+    "image": "https://i.ibb.co.com/1thnYkRF/bafc8b28410e3c6d0e4f6658cc6d66d9.jpg",
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,25 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+
+/* Tailwind core directives — must be at top */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Swiper CSS */
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+@import "tailwindcss";
+
+/* Custom styles */
+:root {
+  --pine: #0E2D1B;
+  --pagebg: #F6F6EE;
+  --accent: #E58E26;
+}
+
+body {
+  background: var(--pagebg);
+  font-family: Inter, sans-serif;
+}

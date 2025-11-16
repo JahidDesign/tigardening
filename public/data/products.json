@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Monstera Deliciosa",
+    "category": "Plants",
+    "priceLabel": "৳ 2,000 - 3,400",
+    "rating": 4.8,
+    "reviews": 26,
+    "image": "https://i.ibb.co.com/M5VzJqDB/af8f58fdba38da5b392014802b8cbdb0.jpg",
+    "description": "A lush indoor plant with large, glossy leaves."
+  },
+  {
+    "id": 2,
+    "name": "Organic Compost Fertilizer",
+    "category": "Fertilizers",
+    "priceLabel": "৳ 60 - 440",
+    "rating": 4.5,
+    "reviews": 12,
+    "image": "https://i.ibb.co.com/JFwd3GpC/09c805c0feb2f8006f8230d5d24765e8.jpg",
+    "description": "Premium compost fertilizer suitable for all types of garden plants."
+  },
+  {
+    "id": 3,
+    "name": "Pruning Shears",
+    "category": "Tools",
+    "priceLabel": "৳ 180 - 450",
+    "rating": 4.7,
+    "reviews": 34,
+    "image": "https://i.ibb.co/G3tfdjfk/tree1.jpg",
+    "description": "High-quality pruning shears ideal for precision trimming."
+  },
+  {
+    "id": 4,
+    "name": "Snake Plant (Sansevieria)",
+    "category": "Plants",
+    "priceLabel": "৳ 450 - 900",
+    "rating": 4.9,
+    "reviews": 41,
+    "image": "https://i.ibb.co.com/0pJhVMZt/7108868c76b1e1ecd4eecfee77a134d2.jpg",
+    "description": "A hardy indoor plant perfect for air purification."
+  },
+  {
+    "id": 5,
+    "name": "Eco-Friendly Coir Pot",
+    "category": "Pots",
+    "priceLabel": "৳ 80 - 180",
+    "rating": 4.6,
+    "reviews": 18,
+    "image": "https://i.ibb.co.com/cXTdrc00/0c5a73d84520685bd9b150d6193cfcaa.jpg",
+    "description": "Biodegradable coir pots ideal for seedlings and houseplants."
+  },
+  {
+    "id": 6,
+    "name": "Areca Palm",
+    "category": "Plants",
+    "priceLabel": "৳ 550 - 1,400",
+    "rating": 4.7,
+    "reviews": 33,
+    "image": "https://i.ibb.co.com/vxNKLGdG/5daffd8934b1bbdc4aaa63d4009667e9.jpg",
+    "description": "A lush tropical plant perfect for bright indoor spaces."
+  },
+  {
+    "id": 7,
+    "name": "Premium Gardening Soil Mix",
+    "category": "Soil",
+    "priceLabel": "৳ 120 - 350",
+    "rating": 4.8,
+    "reviews": 22,
+    "image": "https://i.ibb.co.com/ycrJdwx2/114f7c9eb13f5b842c309b3a373ff126.jpg",
+    "description": "Nutrient-rich soil ideal for container gardening and indoor plants."
+  },
+  {
+    "id": 8,
+    "name": "Ceramic Decorative Pot",
+    "category": "Pots",
+    "priceLabel": "৳ 320 - 720",
+    "rating": 4.5,
+    "reviews": 17,
+    "image": "https://i.ibb.co.com/JRfcGyRS/5abcac3984ae19f802020d9a3f441e38.jpg",
+    "description": "Elegant ceramic pot suitable for modern home decor."
+  },
+  {
+    "id": 9,
+    "name": "Aloe Vera Plant",
+    "category": "Plants",
+    "priceLabel": "৳ 220 - 480",
+    "rating": 4.9,
+    "reviews": 54,
+    "image": "https://i.ibb.co.com/XxQVXpcL/e3fa3810aab9932494e3ce53afe972a0.jpg",
+    "description": "A medicinal plant known for its healing and air-purifying properties."
+  },
+  {
+    "id": 10,
+    "name": "Stainless Steel Watering Can",
+    "category": "Tools",
+    "priceLabel": "৳ 350 - 850",
+    "rating": 4.6,
+    "reviews": 29,
+    "image": "https://i.ibb.co.com/S4ZDqM70/59943f63363d26b166b6942854f39ed7.jpg",
+    "description": "Durable and stylish watering can with precise pour control."
+  },
+  {
+    "id": 11,
+    "name": "Hanging Boston Fern",
+    "category": "Plants",
+    "priceLabel": "৳ 450 - 1,050",
+    "rating": 4.7,
+    "reviews": 21,
+    "image": "https://i.ibb.co.com/XfnK4VNr/c12f2e1059124f4e4d27355d972df768.jpg",
+    "description": "Beautiful hanging fern perfect for balconies and shaded indoor areas."
+  },
+  {
+    "id": 12,
+    "name": "Mini Cactus Collection",
+    "category": "Plants",
+    "priceLabel": "৳ 180 - 320",
+    "rating": 4.8,
+    "reviews": 39,
+    "image": "https://i.ibb.co.com/bMQ4S3kj/e58bdbb5829286653bb751bdf507984c.jpg",
+    "description": "A cute set of mini cacti, ideal for desks and small spaces."
+  }
+]
