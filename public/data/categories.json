@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Indoor Plants",
+    "image": "https://i.ibb.co.com/Gfqrhcbs/a3d0c0d0616ed4ebc9a461d5bf6b91df.jpg",
+    "slug": "indoor-plants"
+  },
+  {
+    "id": 2,
+    "name": "Outdoor Plants",
+    "image": "https://i.ibb.co.com/mV7tPQ4r/9ea7e258a13d915987dd9e38cb9255f4.jpg",
+    "slug": "outdoor-plants"
+  },
+  {
+    "id": 3,
+    "name": "Flower Plants",
+    "image": ":https://i.ibb.co.com/nMyDk6qJ/15ce1dd051456cf1a2d5e22b8353ce1e.jpg",
+    "slug": "flower-plants"
+  },
+  {
+    "id": 4,
+    "name": "Succulents & Cactus",
+    "image": "s://i.ibb.co/h8LJXHT/succulenhttps://i.ibb.co.com/s4LBG8Y/bf289b347ea12f59ad1a28bd289db98c.jpg",
+    "slug": "succulents-cactus"
+  },
+  {
+    "id": 5,
+    "name": "Gardening Tools",
+    "image": "https://i.ibb.co.com/h11z4B5z/065648b13455fb9a89cd081c85f246b5.jpg",
+    "slug": "tools"
+  },
+  {
+    "id": 6,
+    "name": "Fertilizers",
+    "image": "https://i.ibb.co.com/W4r46HWz/5303f836f25d23553c1ead44a3715031.jpg",
+    "slug": "fertilizers"
+  },
+  {
+    "id": 7,
+    "name": "Pots & Planters",
+    "image": "https://i.ibb.co.com/mV7tPQ4r/9ea7e258a13d915987dd9e38cb9255f4.jpg",
+    "slug": "pots-planters"
+  },
+  {
+    "id": 8,
+    "name": "Seeds",
+    "image": "https://i.ibb.co.com/KpFMkc8H/Aprenda-a-Plantar-Sementes-A-Mensagem-Que-Vai-Transformar-Sua-Vida.jpg",
+    "slug": "seeds"
+  }
+]

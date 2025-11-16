@@ -52,20 +52,22 @@ export default function Navbar() {
             }`}
           >
             {/* ---------- Logo ---------- */}
-            <Link to="/" className="flex items-center gap-2 sm:gap-3 group">
-              <div className="relative w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-br from-[#E58E26] to-[#f7a23a] rounded-lg flex items-center justify-center transform group-hover:scale-110 group-hover:rotate-6 transition-transform duration-300">
-                <svg
-                  className="w-5 h-5 sm:w-6 sm:h-6 text-white"
-                  fill="currentColor"
-                  viewBox="0 0 20 20"
-                >
-                  <path d="M10 3.5a1.5 1.5 0 013 0V4a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-.5a1.5 1.5 0 000 3h.5a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-.5a1.5 1.5 0 00-3 0v.5a1 1 0 01-1 1H6a1 1 0 01-1-1v-3a1 1 0 00-1-1h-.5a1.5 1.5 0 010-3H4a1 1 0 001-1V6a1 1 0 011-1h3a1 1 0 001-1v-.5z" />
-                </svg>
-              </div>
-              <span className="font-bold text-lg sm:text-xl md:text-2xl bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
-                TriGardening
-              </span>
-            </Link>
+<Link to="/" className="flex items-center gap-2 sm:gap-3 group">
+  {/* Logo Image */}
+  <div className="relative w-8 h-8 sm:w-10 sm:h-10 rounded-lg overflow-hidden transform group-hover:scale-110 group-hover:rotate-6 transition-transform duration-300 shadow-md">
+    <img
+      src="TriGardening.svg"
+      alt="TriGardening Logo"
+      className="w-full h-full object-cover"
+    />
+  </div>
+
+  {/* Text */}
+  <span className="font-bold text-lg sm:text-xl md:text-2xl bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
+    TriGardening
+  </span>
+</Link>
+
 
             {/* ---------- Desktop Navigation ---------- */}
             <nav className="hidden lg:flex items-center gap-1 xl:gap-2">

@@ -5,6 +5,7 @@ import Carousel from "./Carousel";
 import ProductsPage from "./ProductsPage";
 import FloweringPlant from "./FloweringPlant";
 import FruitTreesPage from "./FruitTreesPage";
+import CategoryCards from "./CategoryCards";
 
 export default function Home() {
   const homeJsonLd = {
@@ -51,6 +52,9 @@ export default function Home() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, ease: "easeOut" }}
         >
+          <section className="home-products">
+            <CategoryCards />
+          </section>
           <section className="home-products">
             <ProductsPage />
           </section>
